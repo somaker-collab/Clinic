@@ -1,0 +1,21 @@
+{
+  "name": "smilecraft-dental-booking",
+  "version": "1.0.0",
+  "description": "Full-Stack Dental Clinic Online Booking System",
+  "main": "index.js",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.8.0"
+  },
+  "author": "Full-Stack Developer",
+  "license": "MIT"
+}
